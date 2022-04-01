@@ -15,7 +15,7 @@
 # Что сделано
 
 - Рендеринг в `<canvas>`.
-- Разрушаемый террейн, представляющий собой набор полигонов. Написал небольшой скрипт, который преобразует [векторное изображение](https://raw.githubusercontent.com/dolpek/wormix-html5-clone/main/public/wormix/levels/treesRewamp/ground.svg) в него.
+- Разрушаемый террейн, представляющий собой [набор полигонов](https://github.com/dolpek/wormix-html5-clone/blob/main/public/TreesRewamp.json). Написал небольшой скрипт, который преобразует [векторное изображение](https://raw.githubusercontent.com/dolpek/wormix-html5-clone/main/public/wormix/levels/treesRewamp/ground.svg) в него.
 - Камера (перемещение и приближение/отдаление мышкой).
 - Отвязанные от FPS рендера спрайтовые анимациии.
 - Ходьба и прыжки.
