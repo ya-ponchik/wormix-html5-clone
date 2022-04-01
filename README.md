@@ -37,3 +37,14 @@
 - Через какое-то время стабильно багаются коробки.
 - Очень редко граница разрушения становится прозрачной.
 - Размер холста, оказывается, [ограничен](https://web.archive.org/web/20220311110644/https://stackoverflow.com/questions/6081483/maximum-size-of-a-canvas-element/53677532), из-за чего может сломаться рендер.
+
+# Похожие проекты
+Я, признаться, в их код не заглядывал, ибо лень.
+
+- [https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone](https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone)
+- [https://github.com/search?q=wormix&type=](https://github.com/search?q=wormix&type=)
+- [https://github.com/search?l=TypeScript&q=destructible+terrain&type=Repositories](https://github.com/search?l=TypeScript&q=destructible+terrain&type=Repositories)
+- [https://github.com/search?l=JavaScript&q=destructible+terrain&type=Repositories](https://github.com/search?l=JavaScript&q=destructible+terrain&type=Repositories)
+- [https://github.com/search?q=worms+game&type=repositories](https://github.com/search?q=worms+game&type=repositories)
+- [https://www.google.ru/search?q=worm+like+terrain+site:www.reddit.com](https://www.google.ru/search?q=worm+like+terrain+site:www.reddit.com)
+- [https://www.google.ru/search?q=worm+like+terrain+site:gamedev.stackexchange.com](https://www.google.ru/search?q=worm+like+terrain+site:gamedev.stackexchange.com)
