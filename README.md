@@ -38,7 +38,7 @@
 - Очень редко граница разрушения становится прозрачной.
 
 # Похожие проекты
-Я, признаться, в их код не заглядывал, ибо лень.
+Я, признаться, в их код не заглядывал — не интересно.
 
 - [https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone](https://github.com/CiaranMcCann/Worms-Armageddon-HTML5-Clone)
 - [https://github.com/search?q=wormix&type=](https://github.com/search?q=wormix&type=)
