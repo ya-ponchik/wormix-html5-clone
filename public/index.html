@@ -16,6 +16,7 @@
         <style>
             body, html {
                 height: 100%;
+                position: relative;
             }
 
             canvas {
@@ -30,8 +31,21 @@
             #staticBackdrop {
                 font-size: 16px;
             }
+
+            img {
+                position: absolute;
+                bottom: 20px;
+                right: 20px;
+                height: 50px;
+                cursor: pointer;
+            }
         </style>
         <canvas></canvas>
+
+        <img style="display: none;" src="./audio_on.svg">
+        <img style="display: none;" src="./audio_off.svg">
+
+        
    
         <!-- пример из доков с минимумом изменений  -->
         <!-- Modal -->
