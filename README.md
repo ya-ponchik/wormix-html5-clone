@@ -17,9 +17,10 @@
 # Что сделано
 
 to-do: часть текста ниже потереть (уже немног потер), в будущем тут будет ссылка на видеодемонстрацию и немного технических подробностей
+побегать, попрыгать, пострелять из всех оружек и тд
 
 - Рендеринг в `<canvas>`.
-- Разрушаемый террейн, представляющий собой [набор полигонов](https://github.com/ya-ponchik/wormix-html5-clone/blob/main/public/TreesRewamp.json). Написал небольшой скрипт, который преобразует [векторное изображение](https://raw.githubusercontent.com/ya-ponchik/wormix-html5-clone/main/public/wormix/levels/treesRewamp/ground.svg) в него.
+- Разрушаемый террейн, представляющий собой [набор полигонов](https://github.com/ya-ponchik/wormix-html5-clone/blob/main/public/villianBase.json). Написал небольшой скрипт, который преобразует [векторное изображение](https://raw.githubusercontent.com/ya-ponchik/wormix-html5-clone/main/public/wormix/levels/treesRewamp/ground.svg) в него.
 - Камера (перемещение и приближение/отдаление мышкой).
 - Отвязанные от FPS рендера спрайтовые анимациии.
 - Обнаружение столкновений с террейном и их разрешение — отскок с учетом вектора скорости, нормали к поверхности, коэффициентов трения и упругости.
